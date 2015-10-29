@@ -1,0 +1,6 @@
+f:\largedownloads\documents\visual studio 2015\Projects\ProjectEulerCss\ProjectEulerCss\bin\Debug\ProjectEulerCss.exe.config
+f:\largedownloads\documents\visual studio 2015\Projects\ProjectEulerCss\ProjectEulerCss\bin\Debug\ProjectEulerCss.exe
+f:\largedownloads\documents\visual studio 2015\Projects\ProjectEulerCss\ProjectEulerCss\bin\Debug\ProjectEulerCss.pdb
+f:\largedownloads\documents\visual studio 2015\Projects\ProjectEulerCss\ProjectEulerCss\obj\Debug\ProjectEulerCss.csprojResolveAssemblyReference.cache
+f:\largedownloads\documents\visual studio 2015\Projects\ProjectEulerCss\ProjectEulerCss\obj\Debug\ProjectEulerCss.exe
+f:\largedownloads\documents\visual studio 2015\Projects\ProjectEulerCss\ProjectEulerCss\obj\Debug\ProjectEulerCss.pdb
