@@ -473,17 +473,19 @@ namespace ProjectEulerCss
 
             #region Problem 16  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-            double big = Math.Pow(2, 1000);
-            string bigS = big.ToString();
-            Console.WriteLine(big);
-            Console.WriteLine(bigS);
-            Console.WriteLine(bigS.Contains("E"));
+            //double big = Math.Pow(2, 1000);
+            //string bigS = big.ToString();
+            //Console.WriteLine(big);
+            //Console.WriteLine(bigS);
+            //Console.WriteLine(bigS.Contains("E"));
 
             #endregion
 
-            #region Problem 17
+            #region Problem 20
 
-
+            long temp = CommonFunctions.Factorial(100);
+            string tempS = temp.ToString();
+            Console.WriteLine(temp);
 
             #endregion
 

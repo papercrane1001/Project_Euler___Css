@@ -102,5 +102,19 @@ namespace ProjectEulerCss
             }
             return true;
         }
+
+        public static long Factorial(int n)
+        {
+            int iter = n;
+            long res = 1;
+            while (iter > 0)
+            {
+                res = res * iter;
+                iter += -1;
+            }
+
+
+            return res;
+        }
     }
 }
